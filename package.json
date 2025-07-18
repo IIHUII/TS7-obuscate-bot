@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.9"
+  },
+  "name": "luaobfuscator-bot-master",
+  "version": "1.0.0",
+  "description": "New & improved discord bot for LuaObfuscator for [@ferib](https://github.com/ferib)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
