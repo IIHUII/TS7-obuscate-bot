@@ -14,8 +14,8 @@ module.exports = {
     ICON_URL: "https://raw.githubusercontent.com/IIHUII/979/refs/heads/main/c82b2c3a3ada17bd5d0e2492ca7fb94d.jpg",
 
     activities: [
-        `${prefix}`,
-        `${prefix}`,
+        `${prefix}obf wiht file!`,
+        `${prefix}obf in text!`,
     ],
     command_list: {
         "• LUA OBFUSCATOR": [
